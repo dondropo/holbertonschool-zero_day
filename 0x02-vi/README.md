@@ -1,0 +1,1 @@
+This project is about emacs and its command to open a file. 
